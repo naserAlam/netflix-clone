@@ -18,8 +18,6 @@ function MovieRow({ title, fetchUrl, isLargeRow }) {
         fetchData();
     }, [fetchUrl])
 
-    console.table(movies)
-
     return (
         <div>
             <h4>{title}</h4>
