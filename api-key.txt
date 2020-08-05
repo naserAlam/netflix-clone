@@ -1,0 +1,4 @@
+TMDB - https://www.themoviedb.org/settings/api
+user name: mdshofiqur
+password : mdshofiqur
+api key  : 01bc895e8bfb397d59b8a2ab1662ac25
